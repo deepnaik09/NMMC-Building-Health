@@ -113,8 +113,6 @@ def make_sample(i):
         "no_of_flats": no_of_flats,
         "no_of_people": no_of_people,
         "maintenance_per_month": maintenance_per_month,
-        "latitude": lat,
-        "longitude": lon,
         "label_score": score
     }
 
